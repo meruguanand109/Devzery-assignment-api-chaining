@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Devzery-assignment-api-chaining/static/css/main.e7d0cc65.css",
+    "main.js": "/Devzery-assignment-api-chaining/static/js/main.96c12bce.js",
+    "static/js/453.50736978.chunk.js": "/Devzery-assignment-api-chaining/static/js/453.50736978.chunk.js",
+    "index.html": "/Devzery-assignment-api-chaining/index.html",
+    "main.e7d0cc65.css.map": "/Devzery-assignment-api-chaining/static/css/main.e7d0cc65.css.map",
+    "main.96c12bce.js.map": "/Devzery-assignment-api-chaining/static/js/main.96c12bce.js.map",
+    "453.50736978.chunk.js.map": "/Devzery-assignment-api-chaining/static/js/453.50736978.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d0cc65.css",
+    "static/js/main.96c12bce.js"
+  ]
+}
